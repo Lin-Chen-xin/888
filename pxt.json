@@ -1,0 +1,24 @@
+{
+    "name": "小车",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.6",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.1",
+        "warrior": "github:joymaya/warrior#7388dc2f316847d70b33157816a3f1138314e20b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
